@@ -6,9 +6,13 @@
   Hbase is a columnar database that utilizes Hadoop as the foundation. However, for simplicity, this installation will not
 be deploying Hadoop clusters, and thus we will have Hbase manage Zookeeper.
 
-Please make sure to download the repository first. The repo can be found under these 2 links
+Please make sure to download the repository first. The repo can be found under
+
 https://github.com/Minato132/my_hbase
 
+Or in, 
+
+kaizenflow under SorrTask800 Branch
 
 
 **Running Our Program**
