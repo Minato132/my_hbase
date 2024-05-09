@@ -7,6 +7,8 @@
 be deploying Hadoop clusters, and thus we will have Hbase manage Zookeeper.
 
 Please make sure to download the repository first. The repo can be found under these 2 links
+https://github.com/Minato132/my_hbase
+
 
 
 **Running Our Program**
